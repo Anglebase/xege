@@ -14,3 +14,5 @@ build-*
 build/
 /temp
 /out
+/.vscode
+/target

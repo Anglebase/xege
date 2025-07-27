@@ -22,7 +22,7 @@
 // #undef _ITERATOR_DEBUG_LEVEL
 // #endif
 
-#include <png.h>
+#include "libpng/png.h"
 
 
 #include <math.h>

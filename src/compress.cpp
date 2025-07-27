@@ -1,5 +1,5 @@
 #include "ege_head.h"
-#include <zlib.h>
+#include "zlib/zlib.h"
 
 namespace ege
 {
